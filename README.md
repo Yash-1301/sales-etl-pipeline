@@ -1,6 +1,6 @@
 # Sales ETL Data Warehouse & Dashboard (Global Retail MNC)
 
-##[Live Interactive Dashboard](https://sales-etl-pipeline-ifb6p7vmpqhydd6wrkrivt.streamlit.app/))##
+**[Live Interactive Dashboard](https://sales-etl-pipeline-ifb6p7vmpqhydd6wrkrivt.streamlit.app/))**
 
 ## Project Overview
 ...
