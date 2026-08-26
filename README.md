@@ -1,5 +1,9 @@
 # Sales ETL Data Warehouse & Dashboard (Global Retail MNC)
 
+##[Live Interactive Dashboard](https://sales-etl-pipeline-ifb6p7vmpqhydd6wrkrivt.streamlit.app/))##
+
+## Project Overview
+...
 An end-to-end data engineering and analytics project to build an automated ETL pipeline that extracts data from multiple file formats (CSV, JSON, Excel), cleanses and transforms it into an optimized Star Schema database in SQLite, and displays a Sales Performance & ETL Health dashboard.
 
 ---
